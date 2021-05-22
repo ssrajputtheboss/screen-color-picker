@@ -18,4 +18,4 @@ Right click on the location of screen whose color you want to copy. A GUI will a
 
 ## Sample Output
 
-![screenshot](https://github.com/ssrajputtheboss/screen-color-picker/blob/main/Screenshot.png) 
+![screenshot](https://ssrajputtheboss.github.io/screen-color-picker/Screenshot.png) 
